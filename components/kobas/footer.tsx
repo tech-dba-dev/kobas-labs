@@ -19,9 +19,6 @@ export function Footer() {
             <Link href="/terms" className="transition-colors hover:text-primary">
               Terms of Use
             </Link>
-            <Link href="#" className="transition-colors hover:text-primary">
-              Support
-            </Link>
           </nav>
 
           {/* Copyright */}
