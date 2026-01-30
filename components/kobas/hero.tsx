@@ -27,14 +27,6 @@ export function Hero() {
                 Kobas Labs is a software development company focused on building high-quality mobile and web products. We help startups and businesses launch, scale, and automate their digital operations through modern engineering and reliable delivery.
               </p>
             </div>
-            <div className="flex flex-wrap justify-center gap-4 lg:justify-start">
-              <button className="min-w-[160px] rounded-lg bg-primary px-8 py-4 text-base font-bold text-primary-foreground transition-all hover:shadow-lg hover:shadow-primary/20">
-                Contact Us
-              </button>
-              <button className="min-w-[160px] rounded-lg border-2 border-primary/30 bg-transparent px-8 py-4 text-base font-bold text-primary transition-all hover:bg-primary/10">
-                Our Portfolio
-              </button>
-            </div>
           </div>
         </div>
       </div>

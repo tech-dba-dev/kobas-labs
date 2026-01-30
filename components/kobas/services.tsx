@@ -1,4 +1,4 @@
-import { Smartphone, Monitor, Bot, ArrowRight } from "lucide-react"
+import { Smartphone, Monitor, Bot } from "lucide-react"
 
 const services = [
   {
@@ -51,12 +51,6 @@ export function Services() {
                   {service.description}
                 </p>
               </div>
-              <a
-                href="#"
-                className="flex items-center gap-2 text-sm font-bold text-primary transition-transform group-hover:translate-x-1"
-              >
-                Learn more <ArrowRight className="size-4" />
-              </a>
             </div>
           ))}
         </div>
